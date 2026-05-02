@@ -1,0 +1,6 @@
+{
+  "name": "Durgas Search",
+  "description": "A distributed search and analytics engine with Elasticsearch-like REST API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
